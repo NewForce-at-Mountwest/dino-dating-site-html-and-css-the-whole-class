@@ -1,4 +1,24 @@
+.navbar li {
+  list-style-type: none;
+}
+
+.navbar ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar {
+  background-color: #630101;
+  border-bottom: 2px solid yellow;
+}
+
+.navbar li a {
+  text-decoration: none;
+  font-size: 2.5em;
+  color: white;
+  font-family: "ZCOOL KuaiLe", cursive;
+}
 footer {
-    text-align: center;
-    margin: 2em 2em 2em 2em;
+  text-align: center;
+  margin: 2em 2em 2em 2em;
 }

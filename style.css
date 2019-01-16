@@ -1,0 +1,24 @@
+.navbar-dino li {
+  list-style-type: none;
+}
+
+.navbar-dino ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-dino {
+  background-color: #630101;
+  border-bottom: 2px solid yellow;
+}
+
+.navbar-dino li a {
+  text-decoration: none;
+  font-size: 2.5em;
+  color: white;
+  font-family: "ZCOOL KuaiLe", cursive;
+}
+footer {
+  text-align: center;
+  margin: 2em 2em 2em 2em;
+}
